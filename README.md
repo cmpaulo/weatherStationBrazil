@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Bem Vindo ao COOLER BRASIL 
+by Claudio Paulo
 
-You can use the [editor on GitHub](https://github.com/cmpaulo/weatherStationBrazil/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Desenvolvimento de Soluções](https://cmpaulo.github.io/weatherStationBrazil/)
 
-### Markdown
+Produtos desenvolvido para monitorar condições internas da sua casa, como em quartos, garagem, cozinha ..., de forma portátil. A facilidade de conexão com redes sem fio local possibilita o controle de equipamentos da palma da sua mão com seu smartphone ou via internet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Elaboraçao de kits para iniciantes em programaçao em ArduinoIDE e microcontroladores de ESP32, ESP8266, ESPs ... e derivados. Os modelos de Estaçoes meteorologicas são desenvolvidas em .duino, utilizando componentes comprados da China e revendido no Brasil, ja pré configurados, e de fácil utilização para usuários finais. 
 
-```markdown
-Syntax highlighted code block
+# Estação Meteorológica
 
-# Header 1
-## Header 2
-### Header 3
+Monitoramento de Temperatura e Umidade interna, e visualização das condições externas e previsão do tempo.
+A mini estação meteorológica utiliza acesso a internet para obter informação da estações meteorológicas mais próxima para mostrar os parâmetros externos e a previsão do tempo para 3 ou 5 dias, apresentadas em um visor de OLED monocromático (azul ou branco). Como é apresentado na imagem do nosso protótipo EMESPXX.
 
-- Bulleted
-- List
+## Onde e como eu posso comprar ?
 
-1. Numbered
-2. List
+Você pode consultar a disponibilidade, e as formas de pagamento e os prazos de entrega do seu kit no nosso sistema de " Contato ". 
 
-**Bold** and _Italic_ and `Code` text
+## Algumas Novidades.
 
-[Link](url) and ![Image](src)
-```
+Neste ano de 2020
+mini Estação Meteorológica, EMESPXX interna com display OLED, monitora e apresenta as informações de temperatura, umidade internas. E com acesso a internet as medidas de temperatura, umidade, pressão, direção/velocidade do vento, condições atuais do tempo('chuva', 'nublado', 'limpo').
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Linha de modelos
 
-### Jekyll Themes
+## Modelo EMESP1X  
+Maio, 2020
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmpaulo/weatherStationBrazil/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Monitora e apresenta informaçoes do tempo, e condiçoes internas
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Modelo EMESP2X  
+Maio, 2020
+
+Monitora e apresenta informações do tempo, e condições internas, integra um Dashboard google gratuito.
+
+
+
+## Modelo EMESP3X  
+Maio, 2020
+**Ainda em Desenvolvimento**
+
+Monitora e apresenta informações do tempo, e condições internas, integra um Dashboard google gratuito, com botoes para ligar e desligar cargas, que podem ser, ventiladores internos, condicionador de ar, aquecedores, lampadas, motores.  
+
+## Contato  Comercial
+
+Email:  **claudio.mpaulo@yahoo.com.br**
+
+Endereço:  **São Paulo - SP**
+
+<!-- Redes Sociais
+[Cooler Brasil Fanpage ](https://www.facebook.com/coolerbrasil)
+
+[YouTube ](http://www.youtube.com/playlist?list=PLqEFiOKZ21ZovttQ_qdfj_-LBdRUhM4Lx) -->
+>>>>>>> Stashed changes
