@@ -36,7 +36,6 @@ Maio, 2020
 Monitora e apresenta informações do tempo, e condições internas, integra um Dashboard google gratuito.
 
 
-
 ## Modelo EMESP3X  
 Maio, 2020
 **Ainda em Desenvolvimento**
@@ -49,8 +48,9 @@ Email:  **claudio.mpaulo@yahoo.com.br**
 
 Endereço:  **São Paulo - SP**
 
-<!-- Redes Sociais
-[Cooler Brasil Fanpage ](https://www.facebook.com/coolerbrasil)
+Conheça a CoolerBrasil:
+[Cooler Brasil](https://github.com/cmpaulo/coolerbrasil)
+[Cooler Brasil Fanpage](https://www.facebook.com/coolerbrasil)
 
+<!-- Redes Sociais
 [YouTube ](http://www.youtube.com/playlist?list=PLqEFiOKZ21ZovttQ_qdfj_-LBdRUhM4Lx) -->
->>>>>>> Stashed changes
