@@ -59,10 +59,13 @@ Email:  **claudio.mpaulo@yahoo.com.br**
 Endereço:  **São Paulo - SP**
 
 Mais produtos em Desenvolvimento:
+
 [Youtube WeatherStationCoolerBrasil](https://youtu.be/i0FodG6l0GY)
 
 Conheça a CoolerBrasil:
-[Cooler Brasil](https://github.com/cmpaulo/coolerbrasil)
+
+[Cooler Brasil](https://cmpaulo.github.io/CoolerBrasil/)
+
 [Cooler Brasil Fanpage](https://www.facebook.com/coolerbrasil)
 
 <!-- Redes Sociais
