@@ -2,7 +2,7 @@
 by Claudio Paulo
 
 
-## [Desenvolvimento de Soluções](https://cmpaulo.github.io/weatherStationBrazil/)
+## Desenvolvimento de Soluções
 
 Produtos desenvolvido para monitorar condições internas da sua casa, como em quartos, garagem, cozinha ..., de forma portátil. A facilidade de conexão com redes sem fio local possibilita o controle de equipamentos da palma da sua mão com seu smartphone ou via internet.
 
@@ -17,6 +17,11 @@ A mini estação meteorológica utiliza acesso a internet para obter informaçã
 
 Você pode consultar a disponibilidade, e as formas de pagamento e os prazos de entrega do seu kit no nosso sistema de " Contato ". 
 
+
+<div class="iframe_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i0FodG6l0GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Algumas Novidades.
 
 Neste ano de 2020
@@ -24,29 +29,37 @@ mini Estação Meteorológica, EMESPXX interna com display OLED, monitora e apre
 
 ## Linha de modelos
 
-## Modelo EMESP1X  
+## Modelo EMESPXX1  
 Maio, 2020
 
 Monitora e apresenta informaçoes do tempo, e condiçoes internas
 
 
-## Modelo EMESP2X  
+## Modelo EMESPXX2  
 Maio, 2020
 
 Monitora e apresenta informações do tempo, e condições internas, integra um Dashboard google gratuito.
 
 
-## Modelo EMESP3X  
+## Modelo EMESPXX3 
 Maio, 2020
 **Ainda em Desenvolvimento**
 
 Monitora e apresenta informações do tempo, e condições internas, integra um Dashboard google gratuito, com botoes para ligar e desligar cargas, que podem ser, ventiladores internos, condicionador de ar, aquecedores, lampadas, motores.  
+
+## Seu pedido ou tire dúvidas:
+<div class="iframe_container">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6XfJ4M-Qr7wGRX7Kzp9OynsMyoQZriJtJ8zAs70Hu6UiCwg/viewform?embedded=true" width="640" height="862" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+</div>
 
 ## Contato  Comercial
 
 Email:  **claudio.mpaulo@yahoo.com.br**
 
 Endereço:  **São Paulo - SP**
+
+Mais produtos em Desenvolvimento:
+[Youtube WeatherStationCoolerBrasil](https://youtu.be/i0FodG6l0GY)
 
 Conheça a CoolerBrasil:
 [Cooler Brasil](https://github.com/cmpaulo/coolerbrasil)
