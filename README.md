@@ -11,7 +11,7 @@ Elaboraçao de kits para iniciantes em programaçao em ArduinoIDE e microcontrol
 # Estação Meteorológica
 
 Monitoramento de Temperatura e Umidade interna, e visualização das condições externas e previsão do tempo.
-A mini estação meteorológica utiliza acesso a internet para obter informação da estações meteorológicas mais próxima para mostrar os parâmetros externos e a previsão do tempo para 3 ou 5 dias, apresentadas em um visor de OLED monocromático (azul ou branco). Como é apresentado na imagem do nosso protótipo EMESPXX e mais abaixo no vídeo.
+A mini estação meteorológica utiliza acesso a internet para obter informação da estação meteorológica mais próxima para mostrar os parâmetros externos e a previsão do tempo para 3 dias, que são visualizadas no display de OLED monocromático (azul ou branco, azul/amarelo). Como é apresentado na imagem do nosso protótipo EMESPXX1 e mais abaixo no vídeo.
 
 ![](/recursos/DSC06022.JPG)
 
@@ -21,7 +21,7 @@ A mini estação meteorológica utiliza acesso a internet para obter informaçã
 
 ## Onde e como eu posso comprar ?
 
-Você pode consultar a disponibilidade, e as formas de pagamento e os prazos de entrega do seu kit no nosso sistema de " Contato ". 
+Você pode consultar a disponibilidade, e as formas de pagamento e prazos de entrega do seu kit no nosso sistema de [Seu pedido](## Seu pedido ou tire dúvidas:) ". 
 
 ## Algumas Novidades.
 
@@ -50,7 +50,7 @@ Monitora e apresenta informações do tempo, e condições internas, integra um 
 
 ## Seu pedido ou tire dúvidas:
 <div class="iframe_container">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6XfJ4M-Qr7wGRX7Kzp9OynsMyoQZriJtJ8zAs70Hu6UiCwg/viewform?embedded=true" width="640" height="862" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6XfJ4M-Qr7wGRX7Kzp9OynsMyoQZriJtJ8zAs70Hu6UiCwg/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 </div>
 
 ## Contato  Comercial
