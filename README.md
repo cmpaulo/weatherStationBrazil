@@ -11,16 +11,17 @@ Elaboraçao de kits para iniciantes em programaçao em ArduinoIDE e microcontrol
 # Estação Meteorológica
 
 Monitoramento de Temperatura e Umidade interna, e visualização das condições externas e previsão do tempo.
-A mini estação meteorológica utiliza acesso a internet para obter informação da estações meteorológicas mais próxima para mostrar os parâmetros externos e a previsão do tempo para 3 ou 5 dias, apresentadas em um visor de OLED monocromático (azul ou branco). Como é apresentado na imagem do nosso protótipo EMESPXX.
+A mini estação meteorológica utiliza acesso a internet para obter informação da estações meteorológicas mais próxima para mostrar os parâmetros externos e a previsão do tempo para 3 ou 5 dias, apresentadas em um visor de OLED monocromático (azul ou branco). Como é apresentado na imagem do nosso protótipo EMESPXX e mais abaixo no vídeo.
 
-## Onde e como eu posso comprar ?
-
-Você pode consultar a disponibilidade, e as formas de pagamento e os prazos de entrega do seu kit no nosso sistema de " Contato ". 
-
+[](/recursos/DSC06022.JPG)
 
 <div class="iframe_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0FodG6l0GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Onde e como eu posso comprar ?
+
+Você pode consultar a disponibilidade, e as formas de pagamento e os prazos de entrega do seu kit no nosso sistema de " Contato ". 
 
 ## Algumas Novidades.
 
