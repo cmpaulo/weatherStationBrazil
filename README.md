@@ -9,14 +9,14 @@ Produtos desenvolvido para monitorar condições internas da sua casa, como em q
 Elaboraçao de kits para iniciantes em programaçao em ArduinoIDE e microcontroladores de ESP32, ESP8266, ESPs ... e derivados. Os modelos de Estaçoes meteorologicas são desenvolvidas em .duino, utilizando componentes comprados da China e revendido no Brasil, ja pré configurados, e de fácil utilização para usuários finais. 
 
 # Estação Meteorológica
-<img src="/recursos/g4897.png" alt="sketch" width="400">
-<!-- ![](/recursos/g4897.png) -->
+<!-- <img src="/recursos/g4897.png" alt="sketch" width="400"> -->
+![](/recursos/g4897.png)
 
 Monitoramento de Temperatura e Umidade interna, e visualização das condições externas e previsão do tempo.
 A mini estação meteorológica utiliza acesso a internet para obter informação da estação meteorológica mais próxima para mostrar os parâmetros externos e a previsão do tempo para 3 dias, que são visualizadas no display de OLED monocromático (azul ou branco, azul/amarelo). Como é apresentado na imagem do nosso protótipo EMESPXX1 e mais abaixo no vídeo.
 
-<!-- ![](/recursos/DSC06022.JPG) -->
-<img src="/recursos/DSC06022.JPG" alt="sketch" width="400">
+![](/recursos/DSC06022.JPG)
+<!-- <img src="/recursos/DSC06022.JPG" alt="sketch" width="400"> -->
 
 <div class="iframe_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0FodG6l0GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -53,7 +53,7 @@ Monitora e apresenta informações do tempo, e condições internas, integra um 
 
 ## Seu pedido ou tire dúvidas:
 <div class="iframe_container">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6XfJ4M-Qr7wGRX7Kzp9OynsMyoQZriJtJ8zAs70Hu6UiCwg/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeydgdnwWXHvjFysSLMsrzzElO72F_WPLoAkZqsqQbwvo-a6A/viewform?embedded=true" width="640" height="987" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 </div>
 
 ## Contato  Comercial
