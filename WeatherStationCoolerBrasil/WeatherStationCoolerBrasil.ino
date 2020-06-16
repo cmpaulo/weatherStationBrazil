@@ -48,8 +48,8 @@ See more at https://thingpulse.com
  **************************/
 
 // WIFI
-const char* WIFI_SSID = "AquiNaoMexeEmDisco";
-const char* WIFI_PWD  = "HipsTeria_63";
+const char* WIFI_SSID = "XXXXXXXX";
+const char* WIFI_PWD  = "XXXXXXXX";
 
 #define TZ              3       // (utc+) TZ in hours
 #define DST_MN          0      // use 60mn for summer time in some countries
@@ -74,7 +74,7 @@ DHT dht(DHTPIN,DHTTYPE);
 // OpenWeatherMap Settings
 // Sign up here to get an API key:
 // https://docs.thingpulse.com/how-tos/openweathermap-key/
-String OPEN_WEATHER_MAP_APP_ID = "58ed7731a2d8501ae855caaf98e5e25f";
+String OPEN_WEATHER_MAP_APP_ID = "XXXXXXXXXXXXXXXXXXXX";
 
 /*
 Go to https://openweathermap.org/find?q= and search for a location. Go through the
@@ -82,7 +82,7 @@ result set and select the entry closest to the actual location you want to displ
 data for. It'll be a URL like https://openweathermap.org/city/2657896. The number
 at the end is what you assign to the constant below.
  */
-String OPEN_WEATHER_MAP_LOCATION_ID = "3448439";
+String OPEN_WEATHER_MAP_LOCATION_ID = "XXXXXXXXXXX";
 
 // Pick a language code from this list:
 // Arabic - ar, Bulgarian - bg, Catalan - ca, Czech - cz, German - de, Greek - el,
@@ -92,6 +92,8 @@ String OPEN_WEATHER_MAP_LOCATION_ID = "3448439";
 // Portuguese - pt, Romanian - ro, Russian - ru, Swedish - se, Slovak - sk,
 // Slovenian - sl, Spanish - es, Turkish - tr, Ukrainian - ua, Vietnamese - vi,
 // Chinese Simplified - zh_cn, Chinese Traditional - zh_tw.
+// Portuguese(Brazil) - pt_br, Brazil
+
 String OPEN_WEATHER_MAP_LANGUAGE = "pt_br";
 const uint8_t MAX_FORECASTS = 4;
 
