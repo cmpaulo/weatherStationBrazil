@@ -24,7 +24,7 @@ A mini estação meteorológica utiliza acesso a internet para obter informaçã
 
 ## Onde e como eu posso comprar ?
 
-Você pode consultar a disponibilidade, e as formas de pagamento e prazos de entrega do seu kit no nosso sistema pelo formulario em [Seu pedido ou tire dúvidas](#Seu pedido ou tire dúvidas). 
+Você pode consultar a disponibilidade, e as formas de pagamento e prazos de entrega do seu kit no nosso sistema pelo formulario em [Seu pedido ou tire dúvidas](#seu-pedido-ou-tire-dúvidas). 
 
 ## Algumas Novidades.
 
