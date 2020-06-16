@@ -24,7 +24,7 @@ A mini estação meteorológica utiliza acesso a internet para obter informaçã
 
 ## Onde e como eu posso comprar ?
 
-Você pode consultar a disponibilidade, e as formas de pagamento e prazos de entrega do seu kit no nosso sistema pelo formulario em "  Seu pedido ou tire dúvidas: ". 
+Você pode consultar a disponibilidade, e as formas de pagamento e prazos de entrega do seu kit no nosso sistema pelo formulario em [Seu pedido ou tire dúvidas](#Seu pedido ou tire dúvidas). 
 
 ## Algumas Novidades.
 
@@ -52,6 +52,7 @@ Maio, 2020
 Monitora e apresenta informações do tempo, e condições internas, integra um Dashboard google gratuito, com botoes para ligar e desligar cargas, que podem ser, ventiladores internos, condicionador de ar, aquecedores, lampadas, motores.  
 
 ## Seu pedido ou tire dúvidas:
+
 <div class="iframe_container">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeydgdnwWXHvjFysSLMsrzzElO72F_WPLoAkZqsqQbwvo-a6A/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 </div>
