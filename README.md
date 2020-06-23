@@ -14,7 +14,7 @@ Elaboraçao de kits para iniciantes em programaçao em ArduinoIDE e microcontrol
 Monitoramento de Temperatura e Umidade interna, e visualização das condições externas e previsão do tempo.
 A mini estação meteorológica utiliza acesso a internet para obter informação da estação meteorológica mais próxima para mostrar os parâmetros externos e a previsão do tempo para 3 dias, que são visualizadas no display de OLED monocromático (azul ou branco, azul/amarelo). Como é apresentado na imagem do nosso protótipo EMESPXX1 e mais abaixo no vídeo.
 
-![](/recursos/estation.png)
+![](/recursos/station.png)
 
 
 <div class="iframe_container">
@@ -53,7 +53,7 @@ Monitora e apresenta informações do tempo, e condições internas, integra um 
 ## Seu pedido ou tire dúvidas:
 
 <div class="iframe_container">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeydgdnwWXHvjFysSLMsrzzElO72F_WPLoAkZqsqQbwvo-a6A/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeydgdnwWXHvjFysSLMsrzzElO72F_WPLoAkZqsqQbwvo-a6A/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 </div>
 
 ## Contato  Comercial
@@ -71,6 +71,3 @@ Conheça a CoolerBrasil:
 [Cooler Brasil](https://cmpaulo.github.io/CoolerBrasil/)
 
 [Cooler Brasil Fanpage](https://www.facebook.com/coolerbrasil)
-
-<!-- Redes Sociais
-[YouTube ](http://www.youtube.com/playlist?list=PLqEFiOKZ21ZovttQ_qdfj_-LBdRUhM4Lx) -->
